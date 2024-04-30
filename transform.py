@@ -3,7 +3,7 @@
 """
 
 import numpy as np
-import shock_tracer.constants as constants
+import constants as constants
 
 def spherical_coordinate_to_cartesian(crd):
 
