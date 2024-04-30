@@ -6,9 +6,9 @@ import numpy as np
 import pyvista as pv
 from datetime import datetime, timedelta
 import pathlib,h5py,warnings 
-import shock_tracer.grid as grid
-import shock_tracer.constants as constants
-import shock_tracer.transform as transform
+import grid as grid
+import constants as constants
+import transform as transform
 import pandas as pd
 
 
